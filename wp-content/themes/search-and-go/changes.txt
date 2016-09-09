@@ -1,0 +1,44 @@
+1.4.1
+- Fixed Listing Item and Listing Type showing for different languages
+- Fixed Listing Item loading on archive pages when Subcategories are filtered
+- Fixed Rating Sort option
+- Fixed Social Share on posts
+- Updated Elated Listing Plugin to 1.1.2
+- Updated Elated Core Plugin to 1.1.1
+- Updated Elated Booking Plugin to 1.1.1
+
+1.4
+- Added Sidebar Gallery to Listing Item
+- Fixed Listing Categories Loading on archive page
+- Fixed Listing Location Loading on archive page
+- Fixed notice on dashboard pages when there are no listings
+- Fixed Claim listing functionality
+- Updated Elated Listing Plugin to 1.1.1
+- Updated Elated Core Plugin to 1.1
+- Updated Elated Instagram Feed Plugin to 1.1
+- Updated Elated Booking Plugin to 1.1
+
+1.3
+- Added Woocommerce 2.6.1 compatibility
+- Fixed Facebook and Twitter Social Share
+
+1.2
+- Added Sort By: Date, Name or Rating to Listing search pages
+- Added Title Background Image field to Submit New Listing page
+- Added Location field to Submit New Listing page
+- Added option to choose Featured Categories in Listing Search shortcode
+- Added option to edit Listing slug
+- Updated Visual Composer to 4.12
+- Updated Elated Listing plugin to 1.1
+- Fixed Amenities bug on Listing search pages
+- Fixed Map Markers bug on Listing search pages
+
+1.1.1
+- Fixed Admin Listings Showing (admin listings which are not in any package)
+- Fixed Listing Types Showing on Dashboard and Archive Pages
+- Fixed Listing Type Custom Fields Showing
+
+1.1
+- Added Woocommerce Integration
+- Fixed User Registration
+- Fixed Image Upload on User Dashboard Pages
